@@ -39,7 +39,7 @@ A test automation project demonstrating unit testing, UI automation, performance
 ```text
 Cypress/
 Jmeter/
-junit/
+Junit_test/
 .github/
 └── workflows/
     └── ci.yml
