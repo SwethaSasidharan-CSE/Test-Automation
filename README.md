@@ -37,9 +37,9 @@ A test automation project demonstrating unit testing, UI automation, performance
 ## Project Structure
 
 ```text
-cypress-tests/
-jmeter-tests/
-junit-tests/
+Cypress/
+Jmeter/
+junit/
 .github/
 └── workflows/
     └── ci.yml
